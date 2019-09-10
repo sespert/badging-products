@@ -4,7 +4,7 @@ Developer Test
 
 ## Main Goal
 
-Two different type of badges will appear on cruise promotions according to different criteria. The goal is to increase conversions by calling attention to current promotions.
+When running the script badges.js, two different type of badges will appear on cruise promotions according to different criteria. The goal is to increase conversions by calling attention to current promotions.
 
 ## Results
 
