@@ -13,15 +13,15 @@ By running a script, badges will appear on the images of the cruise promotions.
 
 - Desktop
 
-![Desktop](https://github.com/sespert/)
+![Desktop](https://github.com/sespert/badging-products/blob/master/img/Desktop.png)
 
 - Mobile Phones
 
-![Mobile](https://github.com/sespert/)
+![Mobile](https://github.com/sespert/badging-products/blob/master/img/mobile.png)
 
 - Tablets
 
-![Tablet](https://github.com/sespert/)
+![Tablet](https://github.com/sespert/badging-products/blob/master/img/Tablet.png)
 
 ## Copyright
 
