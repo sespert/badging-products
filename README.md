@@ -1,7 +1,6 @@
-# badging-products
+# promotions
 
-Multiplica Developer Test 2
-
+Developer Test
 
 ## Main Goal
 
